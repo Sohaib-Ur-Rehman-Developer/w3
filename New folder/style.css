@@ -1,0 +1,166 @@
+#nav{
+   display: inline-block;
+   margin-right: 15%;
+   padding-left: 0%;
+   padding-bottom: 0;
+   margin-top: -1px;
+
+}
+
+#nab{
+   display: inline-block;
+   padding: 0;
+   margin-left: 30px;
+   padding-top: -0;
+}
+
+   #an{
+      display: inline-block;
+      margin-right: 9%;
+      /* padding-left: 2%; */
+      /* padding-bottom: -0; */
+      margin-top: -40%;
+   }
+   #nan{
+      display: inline-block;
+      padding-left: 60px;
+      position: relative;
+      top: -69px;
+   
+   }
+
+
+   #nom{
+      padding: 3px 40px 3px 15px;
+      border: 1px solid rebeccapurple;
+      border-radius: 25px;
+      position: absolute;
+      /* padding-left: 60px; */
+      /* float: left; */
+      top: 12px;
+      margin-left: 470px;
+      height: 35px;
+   }
+   #search{
+      /* padding-left: 60px; */
+      /* margin-left: 20px; */
+   }
+   #searchicon{
+      width: 2.5%;
+      position: relative;
+      top: -115px;
+      padding-left: 51.5%;
+   }
+   .b{
+      border-radius: 40%;
+      width: 4px;
+
+   }
+   .dot {
+      height: 19px;
+      width: 19px;
+      background-color: black;
+      border-radius: 50%;
+      display: inline-block;
+      
+    }
+    #round{
+      padding-left: 57%;
+      position: relative;
+      top: -145px;
+
+    }
+    #bd{
+      width: 2.7%;
+      position: relative;
+      top: -175px;
+      padding-left: 62%;
+    }
+    #spa{
+      display: inline-block;
+      width: 2.7%;
+      position: relative;
+      top: -225px;
+      padding-left: 65%;
+    }
+
+
+    #cd{
+         width: 2.7%;
+         position: relative;
+         top: -269px;
+         padding-left: 73%;
+    }
+
+
+    #cer{
+         display: inline-block;
+         width: 2.7%;
+         position: relative;
+         top: -318px;
+         padding-left: 77%;
+    }
+
+    .sign{
+      display: inline-block;
+      width: 2.7%;
+      position: relative;
+      top: -375px;
+      padding-left: 87%;
+      border-radius: 2px solid green;
+      
+
+    
+    /* height: 40px; */
+    
+    /* margin-top: -20px; */
+    /* border-radius: 25px solid green; */
+    /* margin-right: -39px; */
+    /* font-size: 16px; */
+    /* line-height: 1.5; */
+    /* z-index: 5; */
+    }
+    
+
+    #log{
+      /* display: inline-block;
+      width: 2.7%;
+      position: relative;
+      top: -875;
+      padding-left: 90%; */
+      display: inline-block;
+      width: 2.7%;
+      position: relative;
+      top: -429px;
+      padding-left: 95%;
+    }
+
+    #second{
+      display: inline-block;
+      padding-right: 32px;
+      margin-right: 0%;
+      position: relative;
+      top: -440px;
+      font-size: 15px;
+      border: 1px solid black;
+   background-color: rgb(149, 147, 147);
+   color: white; 
+   background-color: black;
+   }
+
+   .scroll{
+      width: 20%;
+      height: 110%;
+      margin-top: -455px ;
+   background-color: rgba(113, 107, 107, 0.839);
+
+   
+   
+   color: black;
+   overflow: scroll;
+   }
+   .r{
+      color: white;
+      overflow: hidden;
+      overflow: scroll;
+   }
